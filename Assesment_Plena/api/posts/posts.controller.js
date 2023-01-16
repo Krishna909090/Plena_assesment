@@ -19,8 +19,8 @@ let db = new sqlite3.Database(
 );
 
 aws.config.update({
-  secretAccessKey: "GaujsvxnGBLkUhRlG4wQsKsMfsFJ9NXT6xtiD8+j",
-  accessKeyId:"AKIATD4M6YRVMURRGCNH",
+  secretAccessKey: "",
+  accessKeyId:"",
   region: "us-east-1"
 });
 
